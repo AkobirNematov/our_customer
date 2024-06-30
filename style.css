@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.first-wrapp {
+  background-color: #f9f9ff;
+}
+
+.wrapp {
+  display: flex;
+  margin-top: 96px;
+}
+
+.wrapper {
+  margin-top: 102px;
+}
+
+.shape {
+  width: 16px;
+  height: 16px;
+  margin-bottom: 16px;
+}
+
+.title {
+  width: 492px;
+  height: 116px;
+  font-size: 38px;
+  line-height: 58px;
+  color: #232536;
+}
+
+.title-line {
+  width: 502px;
+  height: 28px;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 16px;
+  color: #232536;
+}
+
+.customer-text {
+  width: 492px;
+  height: 48px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232536;
+  margin-top: 16px;
+}
+
+.members {
+  margin-top: 24px;
+}
+
+.termonial {
+  width: 624px;
+  height: 395px;
+  margin-left: 154px;
+  margin-top: 96px;
+}
+
+/*Read our latest blogs & news*/
+
+.second-wrapp {
+  background-color: #ecf8f9;
+}
+
+.news {
+  margin-top: 96px;
+}
+
+.shape1 {
+  margin-bottom: 19px;
+}
+
+.news-title {
+  width: 695px;
+  height: 58px;
+  font-size: 36px;
+  line-height: 58px;
+  margin-top: 19px;
+}
+
+.pictures {
+  display: flex;
+  gap: 32px;
+  margin-top: 49px;
+}
+
+/* NEWSLETTER */
+
+.newsletter-wrapp {
+  width: 1256px;
+  height: 333px;
+  background-color: #666dff;
+  margin-top: 96px;
+}
+
+.newslet-head {
+  width: 11px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  letter-spacing: 3px;
+  margin-left: 98px;
+  margin-top: 16px;
+}
+
+.newslet-title {
+  width: 488px;
+  height: 108px;
+  font-size: 36px;
+  line-height: 54px;
+  margin-left: 96px;
+  margin-top: 13px;
+  color: #ffffff;
+}
+
+.pic-subscribe {
+  margin-left: 706px;
+}
+
+.imgag {
+  margin-right: 49px;
+}
